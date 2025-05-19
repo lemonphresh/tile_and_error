@@ -213,7 +213,7 @@
     "tile_type": 3,
     "drop_source": "Chambers of Xeric",
     "drop": "unique",
-    "alternative_drop": "",
+    "alternative_drop": "pet",
     "count": 1,
     "notes": "",
     "description": "",
@@ -290,7 +290,7 @@
     "tile_type": 3,
     "drop_source": "Tombs of Amascut",
     "drop": "unique",
-    "alternative_drop": "",
+    "alternative_drop": "pet",
     "count": 1,
     "notes": "",
     "description": "",
@@ -321,11 +321,11 @@
   {
     "coordinates": ["E", 2],
     "tile_type": 3,
-    "drop_source": "the Colosseum",
+    "drop_source": "Nightmare (or Phosani's Nightmare)",
     "drop": "unique",
     "alternative_drop": "",
     "count": 1,
-    "notes": "Quivers do NOT count as unique drops.",
+    "notes": "",
     "description": "",
     "revealed": false
   },
@@ -402,7 +402,7 @@
     "drop": "unique",
     "alternative_drop": "",
     "count": 2,
-    "notes": "No TP, Orb or Quartz counts.",
+    "notes": "No TP or Orb counts. But quartzeseses do!",
     "description": "",
     "revealed": false
   },
@@ -479,7 +479,7 @@
     "drop": "unique",
     "alternative_drop": "",
     "count": 2,
-    "notes": "No TP, Orb or Quartz counts.",
+    "notes": "No TP or Orb counts. But quartzeseses do!",
     "description": "",
     "revealed": false
   },
@@ -497,7 +497,7 @@
   {
     "coordinates": ["G", 4],
     "tile_type": 1,
-    "drop_source": "Vardorvis",
+    "drop_source": "Vardorvise",
     "drop": "",
     "alternative_drop": "",
     "count": 75,
